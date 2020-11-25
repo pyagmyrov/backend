@@ -2,8 +2,8 @@
 
 set -e
 
-# TODO: Set to URL of git repo.
-PROJECT_GIT_URL='https://github.com/pyagmyrov/backend.git'
+# TODO: Set to URL of git repoo.
+PROJECT_GIT_URL= 'https://github.com/pyagmyrov/backend.git'
 
 PROJECT_BASE_PATH='/usr/local/apps/backend'
 
